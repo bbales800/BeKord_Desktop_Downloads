@@ -1,0 +1,2 @@
+00629699f27a3b5741d6870459f7ed8bbe3ea1e3644f8b58fc082cdcf09189ba  BeKord-Portable-1.0.10-x64.exe
+02b41fca3a1194efb3dd95eaf36e3dc8616dc34cc9a0468ff619f79ff8a49702  BeKord-Setup-1.0.10-x64.exe
