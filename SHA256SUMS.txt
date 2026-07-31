@@ -1,2 +1,2 @@
-c934df3ff7a4d9c30c0bd94e6359e1e79c8842e1027fb9d8de824adeb651cf31  BeKord-Portable-1.0.13-x64.exe
-aec66f6032bda6a353305d372b3ba4a15b0cb1c2ac3df8827df1c3dc94b4a070  BeKord-Setup-1.0.13-x64.exe
+3465e9da2ee77fb8538c4dccb8b1a05ec3de4f6a0f93f9bdd32001b93b3a024c  BeKord-Portable-1.0.14-x64.exe
+1ccb03e3f5161fb2759941b41656a54b41a7b832fa495d8374c77e738fba8217  BeKord-Setup-1.0.14-x64.exe

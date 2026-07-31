@@ -1,8 +1,8 @@
-version: 1.0.13
+version: 1.0.14
 files:
-  - url: BeKord-Setup-1.0.13-x64.exe
-    sha512: PWcfwCSmcgkxvS8ZqIjhjRhSd8UFIhKsg56QDS5jVcS+d0e5pyvXcHkKdYdd/MgkaKQP/5WNW+IId0P2Ltx6VQ==
-    size: 96877307
-path: BeKord-Setup-1.0.13-x64.exe
-sha512: PWcfwCSmcgkxvS8ZqIjhjRhSd8UFIhKsg56QDS5jVcS+d0e5pyvXcHkKdYdd/MgkaKQP/5WNW+IId0P2Ltx6VQ==
-releaseDate: '2026-07-31T20:35:57.056Z'
+  - url: BeKord-Setup-1.0.14-x64.exe
+    sha512: 7HdN3QxNXLl+m/qvkwzVj1YwcfwmCEQDESBhV9hvwr0G6hkm5M4hckeLYxvBeWqF5UzoNnHEg2OTOoC35btI1Q==
+    size: 96877760
+path: BeKord-Setup-1.0.14-x64.exe
+sha512: 7HdN3QxNXLl+m/qvkwzVj1YwcfwmCEQDESBhV9hvwr0G6hkm5M4hckeLYxvBeWqF5UzoNnHEg2OTOoC35btI1Q==
+releaseDate: '2026-07-31T20:40:39.855Z'
