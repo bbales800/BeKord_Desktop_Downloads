@@ -1,8 +1,8 @@
-version: 1.0.19
+version: 1.0.20
 files:
-  - url: BeKord-Setup-1.0.19-x64.exe
-    sha512: YUJO/PMbvpvqZjz47Kl+lR/gDxl7kE4j6nw0ET1Ar4ocdMus+MKypmcddMxNceB/coO/C6Ejr2JF/WK3uDdbLQ==
-    size: 96879430
-path: BeKord-Setup-1.0.19-x64.exe
-sha512: YUJO/PMbvpvqZjz47Kl+lR/gDxl7kE4j6nw0ET1Ar4ocdMus+MKypmcddMxNceB/coO/C6Ejr2JF/WK3uDdbLQ==
-releaseDate: '2026-07-31T22:53:20.897Z'
+  - url: BeKord-Setup-1.0.20-x64.exe
+    sha512: rU4uzRgt4nshnC6O7hRjwB91nmzB7XD7vgv5p9np3tYHyD7nTT0364cuu19A+a/dYFONo4+x3IdNX0gdFJELKQ==
+    size: 96880021
+path: BeKord-Setup-1.0.20-x64.exe
+sha512: rU4uzRgt4nshnC6O7hRjwB91nmzB7XD7vgv5p9np3tYHyD7nTT0364cuu19A+a/dYFONo4+x3IdNX0gdFJELKQ==
+releaseDate: '2026-07-31T23:22:43.201Z'
